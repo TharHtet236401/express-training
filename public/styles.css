@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4; /* Light background color */
+}
+
+header {
+    background: #333; /* Dark background for header */
+    color: #fff; /* White text color */
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #fff; /* White text for links */
+    text-decoration: none;
+}
+
+.hero {
+    text-align: center;
+    padding: 50px 0;
+    background: #007bff; /* Blue background for hero section */
+    color: white;
+}
+
+.features, .products {
+    padding: 20px;
+    text-align: center;
+}
+
+.feature, .product {
+    display: inline-block;
+    width: 30%; /* Adjust width as needed */
+    margin: 10px;
+    background: white; /* White background for features and products */
+    padding: 20px;
+    border-radius: 5px; /* Rounded corners */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #333; /* Dark background for footer */
+    color: #fff; /* White text color */
+}
