@@ -251,5 +251,17 @@ const users = [
       email: 'james.hernandez@example.com',
       status: 'inactive'
     },
+    {
+      id: 43,
+      name: 'Ethan Kim',
+      email: 'ethan.kim@example.com',
+      status: 'active'
+    },
+    {
+      id: 44,
+      name: 'Sophia Park',
+      email: 'sophia.park@example.com',
+      status: 'inactive'
+    },
   ]
   export default users;
