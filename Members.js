@@ -118,7 +118,126 @@ const users = [
       name: 'Noah Hall',
       email: 'noah.hall@example.com',
       status: 'inactive'
+    },
+    {
+      id: 21,
+      name: 'Olivia Martin',
+      email: 'olivia.martin@example.com',
+      status: 'active'
+    },
+    {
+      id: 22,
+      name: 'Benjamin Lee',
+      email: 'benjamin.lee@example.com',
+      status: 'inactive'
+    },
+    {
+      id: 23,
+      name: 'Ava Brown',
+      email: 'ava.brown@example.com',
+      status: 'active'
+    },
+    {
+      id: 24,
+      name: 'Logan Davis',
+      email: 'logan.davis@example.com',
+      status: 'inactive'
+    },
+    {
+      id: 25,
+      name: 'Isabella Garcia',
+      email: 'isabella.garcia@example.com',
+      status: 'active'
+    },
+    {
+      id: 26,
+      name: 'Gabriel Miller',
+      email: 'gabriel.miller@example.com',
+      status: 'inactive'
+    },
+    {
+      id: 27,
+      name: 'Emily Taylor',
+      email: 'emily.taylor@example.com',
+      status: 'active'
+    },
+    {
+      id: 28,
+      name: 'Michael Wilson',
+      email: 'michael.wilson@example.com',
+      status: 'inactive'
+    },
+    {
+      id: 29,
+      name: 'Hannah Anderson',
+      email: 'hannah.anderson@example.com',
+      status: 'active'
+    },
+    {
+      id: 30,
+      name: 'Daniel Thomas',
+      email: 'daniel.thomas@example.com',
+      status: 'inactive'
+    },
+    {
+      id: 31,
+      name: 'Madison Jackson',
+      email: 'madison.jackson@example.com',
+      status: 'active'
+    },
+    {
+      id: 32,
+      name: 'Julia Lewis',
+      email: 'julia.lewis@example.com',
+      status: 'inactive'
+    },
+    {
+      id: 33,
+      name: 'Elijah Walker',
+      email: 'elijah.walker@example.com',
+      status: 'active'
+    },
+    {
+      id: 34,
+      name: 'Abigail Hall',
+      email: 'abigail.hall@example.com',
+      status: 'inactive'
+    },
+    {
+      id: 35,
+      name: 'Sofia Rodriguez',
+      email: 'sofia.rodriguez@example.com',
+      status: 'active'
+    },
+    {
+      id: 36,
+      name: 'William Brown',
+      email: 'william.brown@example.com',
+      status: 'inactive'
+    },
+    {
+      id: 37,
+      name: 'Mia Davis',
+      email: 'mia.davis@example.com',
+      status: 'active'
+    },
+    {
+      id: 38,
+      name: 'Oliver Martin',
+      email: 'oliver.martin@example.com',
+      status: 'inactive'
+    },
+    {
+      id: 39,
+      name: 'Isabella Lee',
+      email: 'isabella.lee@example.com',
+      status: 'active'
+    },
+    {
+      id: 40,
+      name: 'Benjamin Garcia',
+      email: 'benjamin.garcia@example.com',
+      status: 'inactive'
     }
-  ];
-
+  ]
   export default users;
